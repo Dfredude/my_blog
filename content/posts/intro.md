@@ -1,6 +1,6 @@
 ---
 title: "Teoria de la unificacion"
-date: 2022-04-09T16:05:00-06:00
+date: 2022-04-09
 description: 'Como introduccion a mi blog, quiero introducir una de mis creencias mas fuertes que me alientan a explorar nuevas fronteras'
 ---
 
