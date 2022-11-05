@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>LaunchX - Bitácora de Viaje de Alfredo Dominguez</title>
+  <title>Computer Networking in a nutshell - Bitácora de Viaje de Alfredo Dominguez</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="https://dfredude.github.io/my_launchx_blog/favicon.png">
 
@@ -14,12 +14,12 @@
   
 
   
-    <meta name="description" content="Un poco acerca de la experiencia vivida en LaunchX"/>
-    <meta property="og:title" content="LaunchX"/>
+    <meta name="description" content="How the TCP/IP Model is all the Internet entails"/>
+    <meta property="og:title" content="Computer Networking in a nutshell"/>
     <meta property="og:type" content="website"/>
     <meta property="og:url" content="https://dfredude.github.io/my_launchx_blog/posts/post_1/"/>
     
-    <meta property="og:description" content="Un poco acerca de la experiencia vivida en LaunchX"/>
+    <meta property="og:description" content="How the TCP/IP Model is all the Internet entails"/>
     <meta name="twitter:card" content="summary"/>
     <meta name="twitter:site" content="@dfred49"/>
     <meta name="twitter:creator" content="@dfred49"/>
@@ -55,15 +55,47 @@
   <div class="blog">
     
     <div class="intro">
-      <h1>LaunchX<span class="dot">.</span></h1>
+      <h1>Computer Networking in a nutshell<span class="dot">.</span></h1>
       
     </div>
     <div class="content">
-      <h1 id="highlights-de-launchx">Highlights de LaunchX</h1>
+      <h1 id="why-computer-networking-seems-too-complicated-for-everyone">Why computer networking seems too complicated for everyone?</h1>
+<p>I&rsquo;ve seen that people tend to be afraid of getting into computer networking, specially when it comes to combining it with software.</p>
+<p>The reason why computer networking is not understood by many, is because it&rsquo;s kinda abstract since it&rsquo;s grown to an enormous size which we can&rsquo;t study in detail. Therefore we need to be imaginatives by  all these pieces of hardware and software that enable the entire internet.</p>
+<p>The key to learn it, is by starting small, in fact in 1969 the Internet was born, and definitely was much smaller. As a matter of fact it was just a connection between two computers! If you think how to computers communicate with each other, you&rsquo;ll easily get that all they do is sending bits of data one another through a copper wire.</p>
+<h2 id="so-what-are-the-obstacles-nowadays">So what are the obstacles nowadays?</h2>
 <ul>
-<li>Una excelente comunidad de &ldquo;explorers&rdquo;</li>
-<li>Practicas super realistas</li>
+<li>Gigantic size of the Internet</li>
+<li>Understanding of communications</li>
+<li>Learning the protocols that entail the Internet</li>
 </ul>
+<h1 id="understanding-the-internet">Understanding the Internet</h1>
+<p>In practical environment, the Internet is made of 4 layers. You may ask why layers? This is just a nice representation to break down the Internet in smaller chunks. Otherwise it&rsquo;d be harder to understand it.</p>
+<p>The Internet Engineering Task Force created and maintains this layered model called TCP/IP. In other words these engineers have come up to standards that can be applied to any electronic device so that it can be connected to the internet:</p>
+<ul>
+<li>Application</li>
+<li>Transport</li>
+<li>Internetwork</li>
+<li>Network Access</li>
+</ul>
+<h2 id="application">Application</h2>
+<p>Application layer is the user interface on your computer representing any kind of media, such as videos, text, images. Behind the scenes these files are simply bits of data.</p>
+<h3 id="bits-of-data">Bits of data</h3>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">0101010101010111111010000010111100001110101010
+</code></pre></div><h2 id="transport">Transport</h2>
+<p>This layer is the most important for software. It contains a Segment(s), named after the fact that the original media data is broken down into smaller pieces (Segments) for easier transportation.</p>
+<p>Each segment is added information about the ports they are mapped to, so they can interact with the correct program on your computer.</p>
+<p>HTTPS uses port 433, so web servers listen on this port and can properly send back the response.</p>
+<h2 id="internetwork">Internetwork</h2>
+<p>The IP protocol, defines IP addresses so intermediary devices (routers) can route packets.</p>
+<p>Wait, what&rsquo;s a packet? It&rsquo;s the segment itself with extra information added, such as the source IP address and destination address so the routers can forward it to the proper device.</p>
+<h2 id="network-access">Network Access</h2>
+<p>You should see the pattern now, every layer simply keeps adding information to the original data in order to deliver the data successfully.</p>
+<p>Befor sending out the bits out, we just add one more piece of information, producing a frame. A frame is used to pass the data from one device to another within the same local network. It enables the packet to be able to be transmitted properly along the way.</p>
+<h1 id="reversing-the-encapsulation">Reversing the encapsulation</h1>
+<p>Decapsulation is when the process of going up each layer, reverses, bottom-top until we have the orginal data in the receiver.</p>
+<h1 id="conclusion">Conclusion</h1>
+<p>The internet is nothing but a bunch of devices that follow the same set of rules for communicating, just like human have grammar rules.</p>
 
     </div>
   </div>
