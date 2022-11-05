@@ -13,9 +13,9 @@ The key to learn it, is by starting small, in fact in 1969 the Internet was born
 
 ## So what are the obstacles nowadays?
 
-> Gigantic size of the Internet
-> Understanding of communications
-> Learning the protocols that entail the Internet
+> • Gigantic size of the Internet
+> • Understanding of communications
+> • Learning the protocols that entail the Internet
 
 # Understanding the Internet
 
@@ -23,10 +23,10 @@ In practical environment, the Internet is made of 4 layers. You may ask why laye
 
 The Internet Engineering Task Force created and maintains this layered model called TCP/IP. In other words these engineers have come up to standards that can be applied to any electronic device so that it can be connected to the internet:
 
-> - Application
-> - Transport
-> - Internetwork
-> - Network Access
+> • Application
+> • Transport
+> • Internetwork
+> • Network Access
 
 ## Application
 
