@@ -2,20 +2,15 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "About Me"
 ---
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hi there, I'm a tech enthusiast 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Experience as a Software Developer at Samsung Electronics
+> Originally from Mexico 🌮
+> Currently studying computer networking, math, physics and others.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+You want to reach out? Go to my personal website **(Freddy)[https://freddomcv.web.app/]**
