@@ -1,6 +1,6 @@
 ---
 title: Tech Hub
-description: The hallway smelt of boiled cabbage and old rag mats.
+description: Site full of insights, ideas, and facts about technology, math, and physics.
 ---
 
 🚀 In this blog we are aming for the moon:
