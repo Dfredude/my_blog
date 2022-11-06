@@ -1,6 +1,6 @@
 baseURL = "https://dfredude.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje de Alfredo Dominguez"
+title = "Tech Hub"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
@@ -12,7 +12,6 @@ paginate = 3
 
 [params]
   google_analytics_id = ""
-  # Hey Explorer aquí pon tu twitter 👇
   twitter_handle = "@dfred49"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
