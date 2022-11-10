@@ -11,7 +11,7 @@ pygmentsUseClasses = true
 paginate = 3
 
 [params]
-  google_analytics_id = ""
+  google_analytics_id = "G-R773B1C4Q2"
   twitter_handle = "@dfred49"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
