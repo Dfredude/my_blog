@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Tech Hub</title>
-    <link>https://dfredude.github.io/my_launchx_blog/pages/</link>
+    <link>https://dfredude.github.io/my_blog/pages/</link>
     <description>Recent content in Pages on Tech Hub</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://dfredude.github.io/my_launchx_blog/pages/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://dfredude.github.io/my_blog/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About me</title>
-      <link>https://dfredude.github.io/my_launchx_blog/pages/about/</link>
+      <link>https://dfredude.github.io/my_blog/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dfredude.github.io/my_launchx_blog/pages/about/</guid>
+      <guid>https://dfredude.github.io/my_blog/pages/about/</guid>
       <description>Who am I Hi there, I&amp;rsquo;m a tech enthusiast 🤩
  Experience as a Software Developer at Samsung Electronics Originally from Mexico 🌮 Currently studying computer networking, math, physics and others.
  You want to reach out? Go to my personal website (Freddy)[https://freddomcv.web.app/]</description>
