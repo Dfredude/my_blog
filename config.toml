@@ -1,4 +1,4 @@
-baseURL = "https://dfredude.github.io/my_launchx_blog/"
+baseURL = "https://dfredude.github.io/my_blog/"
 languageCode = "en-us"
 title = "Tech Hub"
 theme = "hugo-winston-theme"
