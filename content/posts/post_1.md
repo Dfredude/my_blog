@@ -13,9 +13,9 @@ The key to learn it, is by starting small, in fact in 1969 the Internet was born
 
 ## So what are the obstacles nowadays?
 
-> • Gigantic size of the Internet
-> • Understanding of communications
-> • Learning the protocols that entail the Internet
+1. • Gigantic size of the Internet
+2. • Understanding of communications
+3.  • Learning the protocols that entail the Internet
 
 # Understanding the Internet
 
