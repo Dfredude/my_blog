@@ -11,11 +11,11 @@ The reason why computer networking is not understood by many, is because it's ki
 
 The key to learn it, is by starting small, in fact in 1969 the Internet was born, and definitely was much smaller. As a matter of fact it was just a connection between two computers! If you think how to computers communicate with each other, you'll easily get that all they do is sending bits of data one another through a copper wire.
 
-## So what are the obstacles nowadays?
+## So what are the obstacles when learning how the internet works nowadays?
 
-> 1. • Gigantic size of the Internet
-> 2. • Understanding of communications
-> 3. • Learning the protocols that entail the Internet
+> 1. • Gigantic size of the Internet (Very complex due to the size)
+> 2. • Lack of understanding communication's building blocks
+> 3. • Understanding all the protocols that entail the Internet
 
 # Understanding the Internet
 
