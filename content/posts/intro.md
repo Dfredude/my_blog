@@ -1,11 +1,11 @@
 ---
-title: "Teoria de la unificacion"
-date: 2022-04-09
-description: 'Como introduccion a mi blog, quiero introducir una de mis creencias mas fuertes que me alientan a explorar nuevas fronteras'
+title: "Welcome to the coolest place for new ideas to emerge"
+date: 2022-11-14
+description: 'Theory of unified universe'
 ---
 
-Todo en en el universo esta relacionado a su complemento. Por ejemplo, una aplicacion movil esta relacionada la electronica. Pudes deducirlo facilmente ya que todo software necsita un hardware en el que pueda correr.
+Everything in the universe is related to its complement. For example, a mobile application is related to electronics. You could easily deduce it since all software needs hardware on which it can run.
 
-Con "Complemento" me refiero a cualquier otra cosa que no sea el primer sujeto. Por eso, podemos decir que una aplicacion movil esta relacionada a algo absolutamente inamginable como el el sol. Aunque sea por una sola propiedad similar. En ese caso el sol y el celular ambos utilizan ondas electromagneticas.
+By "Complement" I mean anything other than the first subject. Therefore, we can say that a mobile application is related to something absolutely unimaginable like the sun. Even if it is for a single property. In case of the sun and the cell phone, they both use electromagnetic waves for different purposes.
 
-Intuitivamente es una teoria comprobada.
+Intuitively speaking it's a self-proven theory.
