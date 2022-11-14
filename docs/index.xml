@@ -6,7 +6,17 @@
     <description>Recent content on Tech Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dfredude.github.io/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dfredude.github.io/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to the coolest place for new ideas to emerge</title>
+      <link>https://dfredude.github.io/my_blog/posts/intro/</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfredude.github.io/my_blog/posts/intro/</guid>
+      <description>Everything in the universe is related to its complement. For example, a mobile application is related to electronics. You could easily deduce it since all software needs hardware on which it can run.
+By &amp;ldquo;Complement&amp;rdquo; I mean anything other than the first subject. Therefore, we can say that a mobile application is related to something absolutely unimaginable like the sun. Even if it is for a single property. In case of the sun and the cell phone, they both use electromagnetic waves for different purposes.</description>
+    </item>
+    
     <item>
       <title>Computer Networking in a nutshell</title>
       <link>https://dfredude.github.io/my_blog/posts/post_1/</link>
@@ -15,16 +25,6 @@
       <guid>https://dfredude.github.io/my_blog/posts/post_1/</guid>
       <description>Why computer networking seems too complicated for everyone? I&amp;rsquo;ve seen that people tend to be afraid of getting into computer networking, specially when it comes to combining it with software.
 The reason why computer networking is not understood by many, is because it&amp;rsquo;s kinda abstract since it&amp;rsquo;s grown to an enormous size which we can&amp;rsquo;t study in detail. Therefore we need to be imaginatives by all these pieces of hardware and software that enable the entire internet.</description>
-    </item>
-    
-    <item>
-      <title>Teoria de la unificacion</title>
-      <link>https://dfredude.github.io/my_blog/posts/intro/</link>
-      <pubDate>Sat, 09 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://dfredude.github.io/my_blog/posts/intro/</guid>
-      <description>Todo en en el universo esta relacionado a su complemento. Por ejemplo, una aplicacion movil esta relacionada la electronica. Pudes deducirlo facilmente ya que todo software necsita un hardware en el que pueda correr.
-Con &amp;ldquo;Complemento&amp;rdquo; me refiero a cualquier otra cosa que no sea el primer sujeto. Por eso, podemos decir que una aplicacion movil esta relacionada a algo absolutamente inamginable como el el sol. Aunque sea por una sola propiedad similar.</description>
     </item>
     
     <item>
