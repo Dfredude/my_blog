@@ -76,9 +76,9 @@
     <div class="content">
       <h1 id="why-computer-networking-seems-too-complicated-for-everyone">Why computer networking seems too complicated for everyone?</h1>
 <p>I&rsquo;ve seen that people tend to be afraid of getting into computer networking, specially when it comes to combining it with software.</p>
-<p>The reason why computer networking is not understood by many, is because it&rsquo;s kinda abstract since it&rsquo;s grown to an enormous size which we can&rsquo;t study in detail. Therefore we need to be imaginatives by  all these pieces of hardware and software that enable the entire internet.</p>
-<p>The key to learn it, is by starting small, in fact in 1969 the Internet was born, and definitely was much smaller. As a matter of fact it was just a connection between two computers! If you think how to computers communicate with each other, you&rsquo;ll easily get that all they do is sending bits of data one another through a copper wire.</p>
-<h2 id="so-what-are-the-obstacles-when-learning-how-the-internet-works-nowadays">So what are the obstacles when learning how the internet works nowadays?</h2>
+<p>The reason why computer networking is not understood by many, is because it&rsquo;s kinda abstract since it&rsquo;s grown to an enormous size which we can&rsquo;t study in detail. Therefore we need to be imaginative by all these pieces of hardware and software that enable the entire internet.</p>
+<p>The key to learn it, is by starting small, in fact in 1969 the Internet was born, and was much smaller. As a matter of fact, it was just a connection between two computers! If you think how two computers communicate with each other, you&rsquo;ll easily get that all they do is sending bits of data one another through a copper wire.</p>
+<h2 id="what-are-the-obstacles-when-learning-how-the-internet-works-nowadays">What are the obstacles when learning how the internet works nowadays?</h2>
 <blockquote>
 <ol>
 <li>• Gigantic size of the Internet (Very complex due to the size)</li>
@@ -87,8 +87,8 @@
 </ol>
 </blockquote>
 <h1 id="understanding-the-internet">Understanding the Internet</h1>
-<p>In practical environment, the Internet is made of 4 layers. You may ask why layers? This is just a nice representation to break down the Internet in smaller chunks. Otherwise it&rsquo;d be harder to understand it.</p>
-<p>The Internet Engineering Task Force created and maintains this layered model called TCP/IP. In other words these engineers have come up to standards that can be applied to any electronic device so that it can be connected to the internet:</p>
+<p>In a practical environment, the Internet is made of 4 layers. You may ask why layers? This is just a nice representation to break down the Internet in smaller chunks. Otherwise, it&rsquo;d be harder to understand it.</p>
+<p>The Internet Engineering Task Force created and maintained this layered model called TCP/IP. In other words, these engineers have come up with standards (design rules) that can be applied to any electronic device so that it can be connected to the internet:</p>
 <blockquote>
 <ul>
 <li>• Application</li>
@@ -102,17 +102,17 @@
 <h3 id="bits-of-data">Bits of data</h3>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">0101010101010111111010000010111100001110101010
 </code></pre></div><h2 id="transport">Transport</h2>
-<p>This layer is the most important for software. It contains a Segment(s), named after the fact that the original media data is broken down into smaller pieces (Segments) for easier transportation.</p>
+<p>This layer is the most important for software. It contains Segment(s), named after the fact that the original media data is broken down into smaller pieces (Segments) for easier transportation.</p>
 <p>Each segment is added information about the ports they are mapped to, so they can interact with the correct program on your computer.</p>
 <p>HTTPS uses port 433, so web servers listen on this port and can properly send back the response.</p>
 <h2 id="internetwork">Internetwork</h2>
-<p>The IP protocol, defines IP addresses so intermediary devices (routers) can route packets.</p>
+<p>The IP protocol defines IP addresses so intermediary devices (routers) can route packets.</p>
 <p>Wait, what&rsquo;s a packet? It&rsquo;s the segment itself with extra information added, such as the source IP address and destination address so the routers can forward it to the proper device.</p>
 <h2 id="network-access">Network Access</h2>
-<p>You should see the pattern now, every layer simply keeps adding information to the original data in order to deliver the data successfully.</p>
-<p>Befor sending out the bits out, we just add one more piece of information, producing a frame. A frame is used to pass the data from one device to another within the same local network. It enables the packet to be able to be transmitted properly along the way.</p>
+<p>You should see the pattern now; every layer simply keeps adding information to the original data in order to deliver the data successfully.</p>
+<p>Before sending out the bits, we just add one more piece of information, producing a frame. A frame is used to pass the data from one device to another within the same local network. It enables the packet to be able to be transmitted properly along the way.</p>
 <h1 id="reversing-the-encapsulation">Reversing the encapsulation</h1>
-<p>Decapsulation is when the process of going up each layer, reverses, bottom-top until we have the orginal data in the receiver.</p>
+<p>Decapsulation is when the process of going up each layer, reverses, bottom-top until we have the original data in the receiver.</p>
 <h1 id="conclusion">Conclusion</h1>
 <p>The internet is nothing but a bunch of devices that follow the same set of rules for communicating, just like human have grammar rules.</p>
 
