@@ -1,6 +1,6 @@
 ---
 title: "Best 5 tips from Elon Musk"
-date: 2022-11-05
+date: 2022-12-03
 description: 'Some lessons that Elon has talked about that have shaped his life'
 ---
 
