@@ -13,4 +13,4 @@ Hi there, I'm a tech enthusiast 🤩
 > Originally from Mexico 🌮
 > Currently studying computer networking, math, physics and others.
 
-You want to reach out? Go to my personal website **(Freddy)[https://freddomcv.web.app/]**
+You want to reach out? Go to my personal website **[here](https://freddomcv.web.app/)**
