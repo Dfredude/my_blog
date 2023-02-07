@@ -1,6 +1,6 @@
 ---
 title: "Virtualization and Containers"
-date: 2023-2-7
+date: 2023-02-07
 description: Talking about the differences between a virtual machine and a container within virtualization.
 ---
 
