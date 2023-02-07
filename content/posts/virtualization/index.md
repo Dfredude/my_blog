@@ -24,4 +24,4 @@ the physical components of a computer (Memory, CPU).
 Figure 1 shows the difference between a traditional architecture and a virtual architecture or
 virtual machine.
 
-![Containerization&Virtualization](images/post_3/Containerization&Virtualization.png)
+![Containerization&Virtualization](images/Containerization&Virtualization.png)
