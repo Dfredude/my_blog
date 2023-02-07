@@ -6,7 +6,27 @@
     <description>Recent content on Tech Hub</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dfredude.github.io/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 07 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dfredude.github.io/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virtualization and Containers</title>
+      <link>https://dfredude.github.io/my_blog/posts/virtualization/</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfredude.github.io/my_blog/posts/virtualization/</guid>
+      <description>Virtualization Nowadays everybody’s talking about (and using) containers for software integration and running apps on these isolated light-weight environments that turn out to be super convenient. Before even understanding what all this really is, it’s better to go back a bit to understanding what a virtual machine is, and even further, what virtualization is.
+What is virtualization When somebody turns on a computer, this neat graphical interface shows up, with icons and buttons you can click on.</description>
+    </item>
+    
+    <item>
+      <title>I hate Facebook, so I created my own</title>
+      <link>https://dfredude.github.io/my_blog/posts/post_4/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfredude.github.io/my_blog/posts/post_4/</guid>
+      <description>Why build it Facebook is the most used social media.
+ So many useless features   </description>
+    </item>
+    
     <item>
       <title>Best 5 tips from Elon Musk</title>
       <link>https://dfredude.github.io/my_blog/posts/post_2/</link>
@@ -46,16 +66,6 @@ The reason why computer networking is not understood by many, is because it&amp;
       <description>Who am I Hi there, I&amp;rsquo;m a tech enthusiast 🤩
  Experience as a Software Developer at Samsung Electronics Originally from Mexico 🌮 Currently studying computer networking, math, physics and others.
  You want to reach out? Go to my personal website here</description>
-    </item>
-    
-    <item>
-      <title>Virtualization and Containers</title>
-      <link>https://dfredude.github.io/my_blog/posts/virtualization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://dfredude.github.io/my_blog/posts/virtualization/</guid>
-      <description>Virtualization Nowadays everybody’s talking about (and using) containers for software integration and running apps on these isolated light-weight environments that turn out to be super convenient. Before even understanding what all this really is, it’s better to go back a bit to understanding what a virtual machine is, and even further, what virtualization is.
-What is virtualization When somebody turns on a computer, this neat graphical interface shows up, with icons and buttons you can click on.</description>
     </item>
     
   </channel>

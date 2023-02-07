@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dfredude.github.io/my_blog/posts/post_2/</loc>
-    <lastmod>2022-12-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dfredude.github.io/my_blog/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dfredude.github.io/my_blog/posts/virtualization/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dfredude.github.io/my_blog/posts/post_4/</loc>
+    <lastmod>2023-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dfredude.github.io/my_blog/posts/post_2/</loc>
     <lastmod>2022-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dfredude.github.io/my_blog/posts/intro/</loc>
@@ -24,7 +30,5 @@
     <loc>https://dfredude.github.io/my_blog/pages/</loc>
   </url><url>
     <loc>https://dfredude.github.io/my_blog/tags/</loc>
-  </url><url>
-    <loc>https://dfredude.github.io/my_blog/posts/virtualization/</loc>
   </url>
 </urlset>
