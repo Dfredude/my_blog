@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dfredude.github.io/my_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>What to work hard on</title>
+      <link>https://dfredude.github.io/my_blog/posts/post_4/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfredude.github.io/my_blog/posts/post_4/</guid>
+      <description>3 stages of productivity Anything you will ever want to achieve boils down in 3 simple steps:
+ Visualize what you want to achieve. Think a plan on how to achieve it. Do it and make it happen.  Bonus Almost everybody visualize what they want, think about how to get it and do certain actions to get to it. However working hard is hard but knowing what to work hard on is even harder.</description>
+    </item>
+    
+    <item>
       <title>Virtualization and Containers</title>
       <link>https://dfredude.github.io/my_blog/posts/virtualization/</link>
       <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
@@ -15,16 +25,6 @@
       <guid>https://dfredude.github.io/my_blog/posts/virtualization/</guid>
       <description>Virtualization Nowadays everybody’s talking about (and using) containers for software integration and running apps on these isolated light-weight environments that turn out to be super convenient. Before even understanding what all this really is, it’s better to go back a bit to understanding what a virtual machine is, and even further, what virtualization is.
 What is virtualization When somebody turns on a computer, this neat graphical interface shows up, with icons and buttons you can click on.</description>
-    </item>
-    
-    <item>
-      <title>I hate Facebook, so I created my own</title>
-      <link>https://dfredude.github.io/my_blog/posts/post_4/</link>
-      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dfredude.github.io/my_blog/posts/post_4/</guid>
-      <description>Why build it Facebook is the most used social media.
- So many useless features   </description>
     </item>
     
     <item>
